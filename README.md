@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/devikapolavarapu/DSA/tree/master/0069-sqrtx) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/devikapolavarapu/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/devikapolavarapu/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
