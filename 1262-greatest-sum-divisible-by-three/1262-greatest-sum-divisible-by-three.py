@@ -1,13 +1,27 @@
 class Solution:
     def maxSumDivThree(self, nums: List[int]) -> int:
-        n, minus=len(nums), -(1<<30)
-        dp=[[0, 0, 0], [0, minus, minus]]
-        for i, x in enumerate(nums):
-            x3=x%3
-            for mod in range(3):
-                modPrev=(3+mod-x3)%3
-                take=x+dp[(i+1)&1][modPrev]
-                skip=dp[(i+1)&1][mod]
-                dp[i&1][mod]=max(take, skip)
-        return max(0, dp[(n-1)&1][0])
-                        
+        s = sum(nums)
+        if s % 3 == 0:
+            return s
+        r11 = 10000
+        r12 = 10000
+        r21 = 10000
+        r22 = 10000
+        for num in nums:
+            if num % 3 == 1 and num < r12:
+                if num < r11:
+                    r12 = r11
+                    r11 = num
+                else:
+                    r12 = num
+            if num % 3 == 2 and num < r22:
+                if num < r21:
+                    r22 = r21
+                    r21 = num
+                else: 
+                    r22 = num
+        if s % 3 == 1:
+            return s - min(r11, r21+r22)
+        if s % 3 == 2:
+            return s - min(r21, r11+r12) 
+            
