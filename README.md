@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/devikapolavarapu/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/devikapolavarapu/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 <!---LeetCode Topics End-->
