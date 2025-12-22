@@ -1,27 +1,24 @@
 class Solution {
     public int minDeletionSize(String[] strs) {
-        int n = strs.length, m = strs[0].length();
-        int size = 0;
-        int[] dp = new int[m];
-        for (int i = 0; i < m; i++) {
-            dp[i] = 1;
-        }
-        int max_keep = 1;
-        for (int i = 0; i < m; i++) {
+        int n = strs[0].length(), m = strs.length;
+        int[] dp = new int[n];
+        Arrays.fill(dp, 1);
+        for (int i = 1; i < n; i++) {
             for (int j = 0; j < i; j++) {
-                boolean valid = true;
-                for (int k = 0; k < n; k++) {
-                    if (strs[k].charAt(j) > strs[k].charAt(i)) {
-                        valid = false;
-                        break;
-                    }
-                }
-                if (valid) {
+                if (isValid(strs, j, i)) {
                     dp[i] = Math.max(dp[i], dp[j] + 1);
                 }
             }
-            max_keep = Math.max(max_keep, dp[i]);
         }
-        return m - max_keep;
+        int max = 0;
+        for (int val : dp) max = Math.max(max, val);
+        return n - max;
     }
+    private boolean isValid(String[] strs, int j, int i) {
+        for (String s : strs) {
+            if (s.charAt(j) > s.charAt(i)) return false;
+        }
+        return true;
+    }
+
 }
