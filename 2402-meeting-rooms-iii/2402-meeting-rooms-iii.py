@@ -1,22 +1,30 @@
+from heapq import heapify, heappop, heappush
+from typing import List
 class Solution:
     def mostBooked(self, n: int, meetings: List[List[int]]) -> int:
-        if n == 1:
-            return 0
-        ends = [0] * n
-        counts = [[i, 0] for i in range(n)]
-        meetings.sort()
-        t = 0
-        while meetings:
-            if meetings[0][0] <= t:
-                for i, e in enumerate(ends):
-                    if t >= e:
-                        s, e = meetings.pop(0)
-                        ends[i] = t + e - s
-                        counts[i][1] += 1
-                        break
+        meetings.sort(key=lambda x: x[0])
+        used = [0] * n
+        busy = []
+        avail = list(range(n))
+        heapify(avail)
+        heapify(busy)
+        for start, end in meetings:
+            while busy and busy[0] and busy[0][0] <= start:
+                _,room = heappop(busy)
+                heappush(avail,room)
+            if avail:
+                room = heappop(avail)
+                heappush(busy,(end,room))
+                used[room] +=1
             else:
-                t += 1
-                continue
-            t = min(ends)
-
-        return max(counts, key = lambda x: x[1])[0]
+                dur = end-start
+                endTime,room = heappop(busy)
+                heappush(busy,(endTime+dur,room))
+                used[room]+=1
+        maxRoom = 0
+        maxCount = 0
+        for i in range(n):
+            if used[i] > maxCount:
+                maxCount = used[i]
+                maxRoom = i 
+        return maxRoom
