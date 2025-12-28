@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/devikapolavarapu/DSA/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/devikapolavarapu/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/devikapolavarapu/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3100-water-bottles-ii](https://github.com/devikapolavarapu/DSA/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/devikapolavarapu/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/devikapolavarapu/DSA/tree/master/3433-count-mentions-per-user) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/devikapolavarapu/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/devikapolavarapu/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/devikapolavarapu/DSA/tree/master/2402-meeting-rooms-iii) |
+| [3100-water-bottles-ii](https://github.com/devikapolavarapu/DSA/tree/master/3100-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/devikapolavarapu/DSA/tree/master/3433-count-mentions-per-user) |
 ## Greedy
 |  |
