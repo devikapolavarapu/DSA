@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
+| [0799-champagne-tower](https://github.com/devikapolavarapu/DSA/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/devikapolavarapu/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/devikapolavarapu/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
