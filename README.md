@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/devikapolavarapu/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/devikapolavarapu/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/devikapolavarapu/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/devikapolavarapu/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/devikapolavarapu/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/devikapolavarapu/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/devikapolavarapu/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devikapolavarapu/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/devikapolavarapu/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
