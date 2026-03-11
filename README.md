@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/devikapolavarapu/DSA/tree/master/0133-clone-graph) |
 | [0840-magic-squares-in-grid](https://github.com/devikapolavarapu/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/devikapolavarapu/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/devikapolavarapu/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/devikapolavarapu/DSA/tree/master/0110-balanced-binary-tree) |
+| [0133-clone-graph](https://github.com/devikapolavarapu/DSA/tree/master/0133-clone-graph) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/devikapolavarapu/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/devikapolavarapu/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/devikapolavarapu/DSA/tree/master/0133-clone-graph) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/devikapolavarapu/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/devikapolavarapu/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/devikapolavarapu/DSA/tree/master/2092-find-all-people-with-secret) |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/devikapolavarapu/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/devikapolavarapu/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
