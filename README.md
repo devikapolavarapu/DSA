@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/devikapolavarapu/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/devikapolavarapu/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/devikapolavarapu/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/devikapolavarapu/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/devikapolavarapu/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/devikapolavarapu/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/devikapolavarapu/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/devikapolavarapu/DSA/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/devikapolavarapu/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/devikapolavarapu/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devikapolavarapu/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/devikapolavarapu/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/devikapolavarapu/DSA/tree/master/2054-two-best-non-overlapping-events) |
