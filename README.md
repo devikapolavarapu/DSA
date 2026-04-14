@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/devikapolavarapu/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/devikapolavarapu/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/devikapolavarapu/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/devikapolavarapu/DSA/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/devikapolavarapu/DSA/tree/master/2906-construct-product-matrix) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/devikapolavarapu/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/devikapolavarapu/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/devikapolavarapu/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/devikapolavarapu/DSA/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/devikapolavarapu/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/devikapolavarapu/DSA/tree/master/2751-robot-collisions) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/devikapolavarapu/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/devikapolavarapu/DSA/tree/master/3433-count-mentions-per-user) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/devikapolavarapu/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/devikapolavarapu/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/devikapolavarapu/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/devikapolavarapu/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/devikapolavarapu/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/devikapolavarapu/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
