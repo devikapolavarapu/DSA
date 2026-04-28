@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/devikapolavarapu/DSA/tree/master/1925-count-square-sum-triples) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devikapolavarapu/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/devikapolavarapu/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/devikapolavarapu/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/devikapolavarapu/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devikapolavarapu/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/devikapolavarapu/DSA/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/devikapolavarapu/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devikapolavarapu/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/devikapolavarapu/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/devikapolavarapu/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/devikapolavarapu/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/devikapolavarapu/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devikapolavarapu/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/devikapolavarapu/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/devikapolavarapu/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/devikapolavarapu/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devikapolavarapu/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/devikapolavarapu/DSA/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/devikapolavarapu/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devikapolavarapu/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/devikapolavarapu/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devikapolavarapu/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
