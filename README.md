@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devikapolavarapu/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/devikapolavarapu/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/devikapolavarapu/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devikapolavarapu/DSA/tree/master/0069-sqrtx) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devikapolavarapu/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/devikapolavarapu/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/devikapolavarapu/DSA/tree/master/0396-rotate-function) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devikapolavarapu/DSA/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/devikapolavarapu/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devikapolavarapu/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
