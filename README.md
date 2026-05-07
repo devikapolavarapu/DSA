@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/devikapolavarapu/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/devikapolavarapu/DSA/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/devikapolavarapu/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3660-jump-game-ix](https://github.com/devikapolavarapu/DSA/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devikapolavarapu/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/devikapolavarapu/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/devikapolavarapu/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/devikapolavarapu/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/devikapolavarapu/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3660-jump-game-ix](https://github.com/devikapolavarapu/DSA/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devikapolavarapu/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
