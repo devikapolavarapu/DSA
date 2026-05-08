@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/devikapolavarapu/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/devikapolavarapu/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/devikapolavarapu/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/devikapolavarapu/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/devikapolavarapu/DSA/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/devikapolavarapu/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/devikapolavarapu/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/devikapolavarapu/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/devikapolavarapu/DSA/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/devikapolavarapu/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3660-jump-game-ix](https://github.com/devikapolavarapu/DSA/tree/master/3660-jump-game-ix) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/devikapolavarapu/DSA/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/devikapolavarapu/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/devikapolavarapu/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/devikapolavarapu/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3714-longest-balanced-substring-ii](https://github.com/devikapolavarapu/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/devikapolavarapu/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/devikapolavarapu/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/devikapolavarapu/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/devikapolavarapu/DSA/tree/master/2092-find-all-people-with-secret) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/devikapolavarapu/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
 | ------- |
@@ -455,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/devikapolavarapu/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/devikapolavarapu/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
