@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/devikapolavarapu/DSA/tree/master/0069-sqrtx) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devikapolavarapu/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/devikapolavarapu/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/devikapolavarapu/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/devikapolavarapu/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
