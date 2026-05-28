@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/devikapolavarapu/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devikapolavarapu/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/devikapolavarapu/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/devikapolavarapu/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devikapolavarapu/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/devikapolavarapu/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/devikapolavarapu/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/devikapolavarapu/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devikapolavarapu/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3093-longest-common-suffix-queries](https://github.com/devikapolavarapu/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/devikapolavarapu/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/devikapolavarapu/DSA/tree/master/3606-coupon-code-validator) |
 | [3714-longest-balanced-substring-ii](https://github.com/devikapolavarapu/DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/devikapolavarapu/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3093-longest-common-suffix-queries](https://github.com/devikapolavarapu/DSA/tree/master/3093-longest-common-suffix-queries) |
 ## Number Theory
 |  |
 | ------- |
