@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/devikapolavarapu/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/devikapolavarapu/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/devikapolavarapu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/devikapolavarapu/DSA/tree/master/0396-rotate-function) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devikapolavarapu/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/devikapolavarapu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/devikapolavarapu/DSA/tree/master/0133-clone-graph) |
 | [0840-magic-squares-in-grid](https://github.com/devikapolavarapu/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/devikapolavarapu/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/devikapolavarapu/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/devikapolavarapu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/devikapolavarapu/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devikapolavarapu/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
