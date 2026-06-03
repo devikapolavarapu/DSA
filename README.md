@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/devikapolavarapu/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/devikapolavarapu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/devikapolavarapu/DSA/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/devikapolavarapu/DSA/tree/master/0396-rotate-function) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devikapolavarapu/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0088-merge-sorted-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devikapolavarapu/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0759-set-intersection-size-at-least-two](https://github.com/devikapolavarapu/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/devikapolavarapu/DSA/tree/master/0761-special-binary-string) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0088-merge-sorted-array) |
 | [2540-minimum-common-value](https://github.com/devikapolavarapu/DSA/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devikapolavarapu/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
