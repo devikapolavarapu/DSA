@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/devikapolavarapu/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devikapolavarapu/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/devikapolavarapu/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devikapolavarapu/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/devikapolavarapu/DSA/tree/master/3379-transformed-array) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/devikapolavarapu/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devikapolavarapu/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devikapolavarapu/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/devikapolavarapu/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devikapolavarapu/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/devikapolavarapu/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/devikapolavarapu/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/devikapolavarapu/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/devikapolavarapu/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/devikapolavarapu/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/devikapolavarapu/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/devikapolavarapu/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/devikapolavarapu/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devikapolavarapu/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/devikapolavarapu/DSA/tree/master/0133-clone-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -568,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devikapolavarapu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
