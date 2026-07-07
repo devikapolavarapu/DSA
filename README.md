@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/devikapolavarapu/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/devikapolavarapu/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devikapolavarapu/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devikapolavarapu/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
