@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/devikapolavarapu/DSA/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/devikapolavarapu/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devikapolavarapu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/devikapolavarapu/DSA/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devikapolavarapu/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devikapolavarapu/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/devikapolavarapu/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/devikapolavarapu/DSA/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devikapolavarapu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devikapolavarapu/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/devikapolavarapu/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/devikapolavarapu/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/devikapolavarapu/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/devikapolavarapu/DSA/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devikapolavarapu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devikapolavarapu/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/devikapolavarapu/DSA/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/devikapolavarapu/DSA/tree/master/3606-coupon-code-validator) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/devikapolavarapu/DSA/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devikapolavarapu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devikapolavarapu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/devikapolavarapu/DSA/tree/master/3620-network-recovery-pathways) |
 ## Design
 |  |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/devikapolavarapu/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devikapolavarapu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devikapolavarapu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
 |  |
 | ------- |
