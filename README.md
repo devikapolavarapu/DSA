@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/devikapolavarapu/DSA/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/devikapolavarapu/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/devikapolavarapu/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/devikapolavarapu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/devikapolavarapu/DSA/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devikapolavarapu/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0759-set-intersection-size-at-least-two](https://github.com/devikapolavarapu/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/devikapolavarapu/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/devikapolavarapu/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/devikapolavarapu/DSA/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/devikapolavarapu/DSA/tree/master/0396-rotate-function) |
