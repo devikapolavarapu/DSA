@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/devikapolavarapu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/devikapolavarapu/DSA/tree/master/0133-clone-graph) |
+| [0242-valid-anagram](https://github.com/devikapolavarapu/DSA/tree/master/0242-valid-anagram) |
 | [0840-magic-squares-in-grid](https://github.com/devikapolavarapu/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/devikapolavarapu/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/devikapolavarapu/DSA/tree/master/0874-walking-robot-simulation) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/devikapolavarapu/DSA/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devikapolavarapu/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0759-set-intersection-size-at-least-two](https://github.com/devikapolavarapu/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/devikapolavarapu/DSA/tree/master/0761-special-binary-string) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devikapolavarapu/DSA/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/devikapolavarapu/DSA/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/devikapolavarapu/DSA/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/devikapolavarapu/DSA/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/devikapolavarapu/DSA/tree/master/0944-delete-columns-to-make-sorted) |
