@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/devikapolavarapu/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devikapolavarapu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/devikapolavarapu/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devikapolavarapu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/devikapolavarapu/DSA/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devikapolavarapu/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/devikapolavarapu/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/devikapolavarapu/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/devikapolavarapu/DSA/tree/master/3433-count-mentions-per-user) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/devikapolavarapu/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/devikapolavarapu/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/devikapolavarapu/DSA/tree/master/3531-count-covered-buildings) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devikapolavarapu/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3093-longest-common-suffix-queries](https://github.com/devikapolavarapu/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/devikapolavarapu/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/devikapolavarapu/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3606-coupon-code-validator](https://github.com/devikapolavarapu/DSA/tree/master/3606-coupon-code-validator) |
 | [3614-process-string-with-special-operations-ii](https://github.com/devikapolavarapu/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/devikapolavarapu/DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/devikapolavarapu/DSA/tree/master/1622-fancy-sequence) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/devikapolavarapu/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devikapolavarapu/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/devikapolavarapu/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devikapolavarapu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
