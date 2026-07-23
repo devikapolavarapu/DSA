@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/devikapolavarapu/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/devikapolavarapu/DSA/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/devikapolavarapu/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/devikapolavarapu/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/devikapolavarapu/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/devikapolavarapu/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devikapolavarapu/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/devikapolavarapu/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/devikapolavarapu/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3531-count-covered-buildings](https://github.com/devikapolavarapu/DSA/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devikapolavarapu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devikapolavarapu/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/devikapolavarapu/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devikapolavarapu/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/devikapolavarapu/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Prefix Sum
 |  |
 | ------- |
