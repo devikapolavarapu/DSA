@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/devikapolavarapu/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devikapolavarapu/DSA/tree/master/0069-sqrtx) |
 | [0396-rotate-function](https://github.com/devikapolavarapu/DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/devikapolavarapu/DSA/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/devikapolavarapu/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/devikapolavarapu/DSA/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/devikapolavarapu/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/devikapolavarapu/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/devikapolavarapu/DSA/tree/master/0396-rotate-function) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devikapolavarapu/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/devikapolavarapu/DSA/tree/master/0486-predict-the-winner) |
 | [0759-set-intersection-size-at-least-two](https://github.com/devikapolavarapu/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/devikapolavarapu/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/devikapolavarapu/DSA/tree/master/0874-walking-robot-simulation) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/devikapolavarapu/DSA/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/devikapolavarapu/DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/devikapolavarapu/DSA/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/devikapolavarapu/DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/devikapolavarapu/DSA/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/devikapolavarapu/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -652,4 +655,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/devikapolavarapu/DSA/tree/master/3620-network-recovery-pathways) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/devikapolavarapu/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/devikapolavarapu/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
