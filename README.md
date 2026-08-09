@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/devikapolavarapu/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/devikapolavarapu/DSA/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/devikapolavarapu/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/devikapolavarapu/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/devikapolavarapu/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/devikapolavarapu/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/devikapolavarapu/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/devikapolavarapu/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/devikapolavarapu/DSA/tree/master/1288-remove-covered-intervals) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/devikapolavarapu/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/devikapolavarapu/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1871-jump-game-vii](https://github.com/devikapolavarapu/DSA/tree/master/1871-jump-game-vii) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/devikapolavarapu/DSA/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/devikapolavarapu/DSA/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/devikapolavarapu/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/devikapolavarapu/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/devikapolavarapu/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/devikapolavarapu/DSA/tree/master/1340-jump-game-v) |
@@ -683,13 +687,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/devikapolavarapu/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/devikapolavarapu/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
