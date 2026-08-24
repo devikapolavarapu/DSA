@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/devikapolavarapu/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/devikapolavarapu/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/devikapolavarapu/DSA/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/devikapolavarapu/DSA/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/devikapolavarapu/DSA/tree/master/1927-sum-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devikapolavarapu/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/devikapolavarapu/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/devikapolavarapu/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1872-stone-game-viii](https://github.com/devikapolavarapu/DSA/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devikapolavarapu/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/devikapolavarapu/DSA/tree/master/1895-largest-magic-square) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/devikapolavarapu/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/devikapolavarapu/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1871-jump-game-vii](https://github.com/devikapolavarapu/DSA/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/devikapolavarapu/DSA/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/devikapolavarapu/DSA/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devikapolavarapu/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devikapolavarapu/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/devikapolavarapu/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/devikapolavarapu/DSA/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/devikapolavarapu/DSA/tree/master/1872-stone-game-viii) |
 | [2054-two-best-non-overlapping-events](https://github.com/devikapolavarapu/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/devikapolavarapu/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/devikapolavarapu/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devikapolavarapu/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/devikapolavarapu/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/devikapolavarapu/DSA/tree/master/1927-sum-game) |
 ## Minimax
 |  |
@@ -710,12 +715,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devikapolavarapu/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/devikapolavarapu/DSA/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devikapolavarapu/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/devikapolavarapu/DSA/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
