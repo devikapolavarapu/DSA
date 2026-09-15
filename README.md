@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/devikapolavarapu/DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devikapolavarapu/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/devikapolavarapu/DSA/tree/master/2126-destroying-asteroids) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devikapolavarapu/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devikapolavarapu/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/devikapolavarapu/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/devikapolavarapu/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/devikapolavarapu/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/devikapolavarapu/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/devikapolavarapu/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devikapolavarapu/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/devikapolavarapu/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/devikapolavarapu/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devikapolavarapu/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/devikapolavarapu/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/devikapolavarapu/DSA/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devikapolavarapu/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/devikapolavarapu/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/devikapolavarapu/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devikapolavarapu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/devikapolavarapu/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devikapolavarapu/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devikapolavarapu/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/devikapolavarapu/DSA/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devikapolavarapu/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devikapolavarapu/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
