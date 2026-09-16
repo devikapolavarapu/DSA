@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/devikapolavarapu/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/devikapolavarapu/DSA/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/devikapolavarapu/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/devikapolavarapu/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/devikapolavarapu/DSA/tree/master/0396-rotate-function) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devikapolavarapu/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/devikapolavarapu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/devikapolavarapu/DSA/tree/master/0133-clone-graph) |
+| [0217-contains-duplicate](https://github.com/devikapolavarapu/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devikapolavarapu/DSA/tree/master/0242-valid-anagram) |
 | [0840-magic-squares-in-grid](https://github.com/devikapolavarapu/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/devikapolavarapu/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devikapolavarapu/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/devikapolavarapu/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devikapolavarapu/DSA/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devikapolavarapu/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0759-set-intersection-size-at-least-two](https://github.com/devikapolavarapu/DSA/tree/master/0759-set-intersection-size-at-least-two) |
