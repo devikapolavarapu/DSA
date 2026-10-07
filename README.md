@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/devikapolavarapu/DSA/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/devikapolavarapu/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/devikapolavarapu/DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/devikapolavarapu/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0761-special-binary-string](https://github.com/devikapolavarapu/DSA/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/devikapolavarapu/DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/devikapolavarapu/DSA/tree/master/0856-score-of-parentheses) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/devikapolavarapu/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/devikapolavarapu/DSA/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/devikapolavarapu/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/devikapolavarapu/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1096-brace-expansion-ii](https://github.com/devikapolavarapu/DSA/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1306-jump-game-iii) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/devikapolavarapu/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/devikapolavarapu/DSA/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/devikapolavarapu/DSA/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/devikapolavarapu/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
