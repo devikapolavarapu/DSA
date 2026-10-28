@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devikapolavarapu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devikapolavarapu/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devikapolavarapu/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/devikapolavarapu/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/devikapolavarapu/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devikapolavarapu/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/devikapolavarapu/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devikapolavarapu/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/devikapolavarapu/DSA/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devikapolavarapu/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devikapolavarapu/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/devikapolavarapu/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/devikapolavarapu/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
