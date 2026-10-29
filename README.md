@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/devikapolavarapu/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/devikapolavarapu/DSA/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devikapolavarapu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/devikapolavarapu/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devikapolavarapu/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devikapolavarapu/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/devikapolavarapu/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/devikapolavarapu/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devikapolavarapu/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/devikapolavarapu/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devikapolavarapu/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/devikapolavarapu/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devikapolavarapu/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/devikapolavarapu/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devikapolavarapu/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/devikapolavarapu/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/devikapolavarapu/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/devikapolavarapu/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/devikapolavarapu/DSA/tree/master/3310-remove-methods-from-project) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/devikapolavarapu/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/devikapolavarapu/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -663,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/devikapolavarapu/DSA/tree/master/0761-special-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/devikapolavarapu/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devikapolavarapu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/devikapolavarapu/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -673,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/devikapolavarapu/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/devikapolavarapu/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devikapolavarapu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/devikapolavarapu/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -815,4 +822,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devikapolavarapu/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/devikapolavarapu/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/devikapolavarapu/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
