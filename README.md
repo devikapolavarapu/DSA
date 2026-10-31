@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/devikapolavarapu/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3660-jump-game-ix](https://github.com/devikapolavarapu/DSA/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devikapolavarapu/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/devikapolavarapu/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/devikapolavarapu/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devikapolavarapu/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/devikapolavarapu/DSA/tree/master/3721-longest-balanced-subarray-ii) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/devikapolavarapu/DSA/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/devikapolavarapu/DSA/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devikapolavarapu/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/devikapolavarapu/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devikapolavarapu/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/devikapolavarapu/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/devikapolavarapu/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devikapolavarapu/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/devikapolavarapu/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devikapolavarapu/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
