@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devikapolavarapu/DSA/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/devikapolavarapu/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devikapolavarapu/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1622-fancy-sequence](https://github.com/devikapolavarapu/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1872-stone-game-viii](https://github.com/devikapolavarapu/DSA/tree/master/1872-stone-game-viii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devikapolavarapu/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devikapolavarapu/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devikapolavarapu/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/devikapolavarapu/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/devikapolavarapu/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devikapolavarapu/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devikapolavarapu/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/devikapolavarapu/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/devikapolavarapu/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1871-jump-game-vii](https://github.com/devikapolavarapu/DSA/tree/master/1871-jump-game-vii) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/devikapolavarapu/DSA/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devikapolavarapu/DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devikapolavarapu/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devikapolavarapu/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/devikapolavarapu/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/devikapolavarapu/DSA/tree/master/1871-jump-game-vii) |
