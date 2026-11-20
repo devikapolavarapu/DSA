@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devikapolavarapu/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/devikapolavarapu/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/devikapolavarapu/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devikapolavarapu/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/devikapolavarapu/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devikapolavarapu/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/devikapolavarapu/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/devikapolavarapu/DSA/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/devikapolavarapu/DSA/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devikapolavarapu/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devikapolavarapu/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/devikapolavarapu/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/devikapolavarapu/DSA/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/devikapolavarapu/DSA/tree/master/3531-count-covered-buildings) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/devikapolavarapu/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devikapolavarapu/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/devikapolavarapu/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/devikapolavarapu/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/devikapolavarapu/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devikapolavarapu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/devikapolavarapu/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
