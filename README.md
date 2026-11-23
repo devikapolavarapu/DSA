@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/devikapolavarapu/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/devikapolavarapu/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devikapolavarapu/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devikapolavarapu/DSA/tree/master/1510-stone-game-iv) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/devikapolavarapu/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/devikapolavarapu/DSA/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devikapolavarapu/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/devikapolavarapu/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devikapolavarapu/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devikapolavarapu/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/devikapolavarapu/DSA/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devikapolavarapu/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/devikapolavarapu/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/devikapolavarapu/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/devikapolavarapu/DSA/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/devikapolavarapu/DSA/tree/master/2069-walking-robot-simulation-ii) |
 ## String Matching
@@ -842,4 +846,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devikapolavarapu/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/devikapolavarapu/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devikapolavarapu/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/devikapolavarapu/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
